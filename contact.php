@@ -6,6 +6,14 @@
     <title>Document</title>
 </head>
 <body>
-    <form action=""></form>
+    <form action="">
+        <p>
+            <label for="email">Email :</label>
+            <input type="email" names="email" id="email">
+        </p>
+        <p>
+            <input type="Submit">
+        </p>
+    </form>
 </body>
 </html>
