@@ -3,3 +3,7 @@
 <p>
     Texte de présentation.
 </p>
+
+<footer>
+    <a href="mailto:axeltavernet@gmail.com">axeltavernet@gmail.com</a>
+</footer>
