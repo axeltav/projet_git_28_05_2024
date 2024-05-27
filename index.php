@@ -12,6 +12,7 @@
 <p>
     Texte de présentation.
 </p>
+<cite>Les test c'est super bien!</cite>
 
 <footer>
     <a href="mailto:axeltavernet@gmail.com">axeltavernet@gmail.com</a>
