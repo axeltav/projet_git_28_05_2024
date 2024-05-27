@@ -3,3 +3,5 @@
 <p>
     Texte de présentation.
 </p>
+
+<cite>Les test c'est super bien!</cite>
