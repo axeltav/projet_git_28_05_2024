@@ -12,6 +12,15 @@
 <p>
     Texte de présentation.
 </p>
+
+<nav>
+    <ul>
+        <li>Accueil</li>
+        <li>Contact</li>
+        <li>A propos de</li>
+    </ul>
+</nav>
+
 <cite>Les test c'est super bien!</cite>
 
 <footer>
